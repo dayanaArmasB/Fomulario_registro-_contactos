@@ -1,0 +1,9 @@
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\bin\Debug\interfaz_grafica2.exe.config
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\bin\Debug\interfaz_grafica2.exe
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\bin\Debug\interfaz_grafica2.pdb
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\obj\Debug\interfaz_grafica2.csprojResolveAssemblyReference.cache
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\obj\Debug\interfaz_grafica2.Form1.resources
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\obj\Debug\interfaz_grafica2.Properties.Resources.resources
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\obj\Debug\interfaz_grafica2.csproj.GenerateResource.Cache
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\obj\Debug\interfaz_grafica2.exe
+C:\Users\DYAB\Desktop\ejercicos de clase upn\clase 2\interfaz_grafica2\interfaz_grafica2\obj\Debug\interfaz_grafica2.pdb
